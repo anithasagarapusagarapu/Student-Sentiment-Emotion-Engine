@@ -1,0 +1,10 @@
+streamlit
+google-genai
+python-dotenv
+pandas
+numpy
+plotly
+tensorflow
+transformers
+torch
+scikit-learn
